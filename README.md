@@ -5,32 +5,32 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elingelegendario)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e)
 
-## 👋 About Me
+## 👋 Sobre mí
 
-🎯 Technology consultant with over **16 years of experience** driving automation, reliability, and AI initiatives across enterprise environments.  
-🚀 Specialized in scaling cloud platforms, developing innovative solutions, and guiding companies toward technological maturity and digital transformation.
+🎯 Consultor en tecnología con más de **16 años de experiencia** impulsando iniciativas de automatización, confiabilidad e inteligencia artificial en entornos empresariales.  
+🚀 Especializado en escalar plataformas en la nube, desarrollar soluciones innovadoras y guiar a las empresas hacia la madurez tecnológica y la transformación digital.
 
-## ❤️ Support My Work
+## ❤️ Apoya mi trabajo
 
-If you like what I do and want to be part of something bigger, consider becoming a sponsor.
+Si te gusta lo que hago y quieres ser parte de algo más grande, considera convertirte en patrocinador.
 
-[![Sponsor me](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
+[![Patrocíname](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
 
-### 🌎 My Mission
-I want to earn enough to launch **social programs that teach science and technology** to underserved communities in my country.  
-Your support helps me share knowledge, build tools, and create a better future through education and innovation.
+### 🌎 Mi misión
+Quiero generar lo suficiente para lanzar **programas sociales que enseñen ciencia y tecnología** a comunidades marginadas de mi país.  
+Tu apoyo me ayuda a compartir conocimiento, crear herramientas y construir un mejor futuro a través de la educación y la innovación.
 
-## Interests
+## Intereses
 
-💻 I'm a Reliability Architect & DevOps Engineer driven by a deep passion for:
-- 🧠 Artificial Intelligence  
-- 🕹️ Game Development with Unreal Engine  
-- 🤖 Automation & Infrastructure as Code  
-- 🔧 Site Reliability & Cloud Engineering (Azure + Kubernetes)  
-- 🚀 Helping companies reach technological maturity and innovation  
-- 🎓 Teaching people about science and technology  
+💻 Soy Arquitecto de Confiabilidad e Ingeniero DevOps, impulsado por una profunda pasión por:
+- 🧠 Inteligencia artificial  
+- 🕹️ Desarrollo de videojuegos con Unreal Engine  
+- 🤖 Automatización e infraestructura como código  
+- 🔧 Confiabilidad de sitios (SRE) e ingeniería en la nube (Azure + Kubernetes)  
+- 🚀 Ayudar a las empresas a alcanzar la madurez tecnológica y la innovación  
+- 🎓 Enseñar ciencia y tecnología a las personas  
 
-## 🧰 Tech Stack
+## 🧰 Tecnologías
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
