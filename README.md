@@ -1,6 +1,6 @@
-[![TikTok - El Inge Legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
-[![Instagram - El Inge Legendario](https://img.shields.io/badge/Instagram%20@El_Inge_Legendario-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elingelegendario/)
-[![Spotify - Podcast Legendario](https://img.shields.io/badge/Spotify%20Artist-%40El%20Inge%20Legendario-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elingelegendario/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e)
 
 ## 👋 About Me
 
@@ -11,7 +11,7 @@
 
 If you like what I do and want to be part of something bigger, consider becoming a sponsor.
 
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20@El%20Inge%20Legendario-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
+[![Sponsor me](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
 
 ### 🌎 My Mission
 I want to earn enough to launch **social programs that teach science and technology** to underserved communities in my country.  
@@ -53,11 +53,3 @@ Your support helps me share knowledge, build tools, and create a better future t
 ![Datadog](https://img.shields.io/badge/Datadog-Monitoring-632CA6?logo=datadog&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elingelegendario&show_icons=true&theme=tokyonight)
-
-## 🔝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elingelegendario&layout=compact&theme=tokyonight)
