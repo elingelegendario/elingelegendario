@@ -12,7 +12,7 @@ Especializado en escalar plataformas en la nube, desarrollar soluciones innovado
 
 > MI PROPÓSITO EN LA VIDA ES TRAER BALANCE AL MUNDO PONIENDO AL ALCANCE DE LAS PERSONAS SIN ALTERNATIVAS, LA INFORMACIÓN QUE NECESITAN PARA GENERAR SUS PROPIAS OPORTUNIDADES.
 
-## Compra un curso
+## Inscríbete y crea tus propias oportunidades
 
 <p align="center">
   <a href="https://www.redboyconsulting.com/challenge-page/e5c60ab0-f619-4799-803f-59fd3817550e?programId=e5c60ab0-f619-4799-803f-59fd3817550e"><img src="https://static.wixstatic.com/media/07ff59_e9a18de9daaa4be8a795e7ab7bfc5bdb~mv2.png/v1/fit/w_800,h_450,al_c,q_90/07ff59_e9a18de9daaa4be8a795e7ab7bfc5bdb~mv2.png" alt="Hackeo de Redes Inalámbricas" width="49%"></a>
