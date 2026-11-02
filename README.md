@@ -1,25 +1,13 @@
-# Next Courses
-
-![Next Courses](https://static.wixstatic.com/media/07ff59_8bee9893f3ef4ce68b8afa8594b3f6e8~mv2.png)
-
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers-abril)
-
-## Merchandize
-
-[**💰Buy Here**](https://www.redboyconsulting.com/category/all-products)
-
-![Merch](https://static.wixstatic.com/media/07ff59_dcff35fea49a4a4093daeac1738f90d6~mv2.png)
-
 ## 👋 About Me
 
-🎯 Technology consultant with over **15 years of experience** driving automation, reliability, and AI initiatives across enterprise environments.  
+🎯 Technology consultant with over **16 years of experience** driving automation, reliability, and AI initiatives across enterprise environments.  
 🚀 Specialized in scaling cloud platforms, developing innovative solutions, and guiding companies toward technological maturity and digital transformation.
 
 ## ❤️ Support My Work
 
 If you like what I do and want to be part of something bigger, consider becoming a sponsor.
 
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20@JacksonGrim-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jacksongrimmx)
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20@JacksonGrim-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
 
 ### 🌎 My Mission
 I want to earn enough to launch **social programs that teach science and technology** to underserved communities in my country.  
@@ -27,11 +15,9 @@ Your support helps me share knowledge, build tools, and create a better future t
 
 ## 🌐 Follow Me
 
-[![TikTok - el_inge_legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
-[![YouTube - Jackson Grim](https://img.shields.io/badge/YouTube%20@JacksonGrim-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JacksonGrim)  
-[![Instagram - jacksongrimmx](https://img.shields.io/badge/Instagram%20@JacksonGrim-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacksongrimmx/)
-[![TikTok - jacksongrimmx](https://img.shields.io/badge/TikTok%20@JacksonGrim-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jacksongrimmx?lang=en)  
-[![Spotify](https://img.shields.io/badge/Spotify%20Artist-%40Jackson%20Grim-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1qH02FBujZWPWzTFXAQVKZ?si=vf6WQDFDSwiG17fBFCTPiQ)
+[![TikTok - El Inge Legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
+[![Instagram - El Inge Legenedario](https://img.shields.io/badge/Instagram%20@JacksonGrim-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elingelegendario/)
+[![Spotify - Podcast Legendario](https://img.shields.io/badge/Spotify%20Artist-%40Jackson%20Grim-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/artist/1qH02FBujZWPWzTFXAQVKZ?si=vf6WQDFDSwiG17fBFCTPiQ](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e))
 
 ## Interests
 
