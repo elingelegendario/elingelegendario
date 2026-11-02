@@ -5,10 +5,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elingelegendario)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e)
 
-## 👋 Sobre mí
+## Sobre mí
 
-🎯 Consultor en tecnología con más de **16 años de experiencia** impulsando iniciativas de automatización, confiabilidad e inteligencia artificial en entornos empresariales.  
-🚀 Especializado en escalar plataformas en la nube, desarrollar soluciones innovadoras y guiar a las empresas hacia la madurez tecnológica y la transformación digital.
+Consultor en tecnología con más de **16 años de experiencia** impulsando iniciativas de automatización, confiabilidad e inteligencia artificial en entornos empresariales.  
+Especializado en escalar plataformas en la nube, desarrollar soluciones innovadoras y guiar a las empresas hacia la madurez tecnológica y la transformación digital.
 
 > Mi propósito en la vida es traer balance al mundo poniendo al alcance de las personas sin alternativas, la información que necesitan para generar sus propias oportunidades.
 
