@@ -28,7 +28,7 @@ Si te gusta lo que hago y quieres ser parte de algo más grande, considera conve
 - 🚀 Ayudar a las empresas a alcanzar la madurez tecnológica y la innovación  
 - 🎓 Enseñar ciencia y tecnología a las personas  
 
-## 🧰 Tecnologías
+## Experto en
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
