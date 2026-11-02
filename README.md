@@ -18,16 +18,6 @@ Si te gusta lo que hago y quieres ser parte de algo más grande, considera conve
 
 [![Patrocíname](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
 
-## Intereses
-
-💻 Soy Arquitecto de Confiabilidad e Ingeniero DevOps, impulsado por una profunda pasión por:
-- 🧠 Inteligencia artificial  
-- 🕹️ Desarrollo de videojuegos con Unreal Engine  
-- 🤖 Automatización e infraestructura como código  
-- 🔧 Confiabilidad de sitios (SRE) e ingeniería en la nube (Azure + Kubernetes)  
-- 🚀 Ayudar a las empresas a alcanzar la madurez tecnológica y la innovación  
-- 🎓 Enseñar ciencia y tecnología a las personas  
-
 ## Experto en
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
