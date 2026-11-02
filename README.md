@@ -10,7 +10,7 @@
 Consultor en tecnología con más de **16 años de experiencia** impulsando iniciativas de automatización, confiabilidad e inteligencia artificial en entornos empresariales.  
 Especializado en escalar plataformas en la nube, desarrollar soluciones innovadoras y guiar a las empresas hacia la madurez tecnológica y la transformación digital.
 
-> Mi propósito en la vida es traer balance al mundo poniendo al alcance de las personas sin alternativas, la información que necesitan para generar sus propias oportunidades.
+> MI PROPÓSITO EN LA VIDA ES TRAER BALANCE AL MUNDO PONIENDO AL ALCANCE DE LAS PERSONAS SIN ALTERNATIVAS, LA INFORMACIÓN QUE NECESITAN PARA GENERAR SUS PROPIAS OPORTUNIDADES.
 
 ## ❤️ Apoya mi trabajo
 
