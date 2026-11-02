@@ -1,3 +1,7 @@
+[![TikTok - El Inge Legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
+[![Instagram - El Inge Legendario](https://img.shields.io/badge/Instagram%20@El_Inge_Legendario-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elingelegendario/)
+[![Spotify - Podcast Legendario](https://img.shields.io/badge/Spotify%20Artist-%40El%20Inge%20Legendario-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e)
+
 ## 👋 About Me
 
 🎯 Technology consultant with over **16 years of experience** driving automation, reliability, and AI initiatives across enterprise environments.  
@@ -7,17 +11,11 @@
 
 If you like what I do and want to be part of something bigger, consider becoming a sponsor.
 
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20@JacksonGrim-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20@El%20Inge%20Legendario-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
 
 ### 🌎 My Mission
 I want to earn enough to launch **social programs that teach science and technology** to underserved communities in my country.  
 Your support helps me share knowledge, build tools, and create a better future through education and innovation.
-
-## 🌐 Follow Me
-
-[![TikTok - El Inge Legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
-[![Instagram - El Inge Legenedario](https://img.shields.io/badge/Instagram%20@JacksonGrim-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elingelegendario/)
-[![Spotify - Podcast Legendario](https://img.shields.io/badge/Spotify%20Artist-%40Jackson%20Grim-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/artist/1qH02FBujZWPWzTFXAQVKZ?si=vf6WQDFDSwiG17fBFCTPiQ](https://open.spotify.com/show/1elu4ZbrdHuKR6R6xPqhpT?si=8e61de963f7d4e5e))
 
 ## Interests
 
@@ -58,8 +56,8 @@ Your support helps me share knowledge, build tools, and create a better future t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksongrimmx&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elingelegendario&show_icons=true&theme=tokyonight)
 
 ## 🔝 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksongrimmx&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elingelegendario&layout=compact&theme=tokyonight)
