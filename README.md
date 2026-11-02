@@ -10,15 +10,15 @@
 🎯 Consultor en tecnología con más de **16 años de experiencia** impulsando iniciativas de automatización, confiabilidad e inteligencia artificial en entornos empresariales.  
 🚀 Especializado en escalar plataformas en la nube, desarrollar soluciones innovadoras y guiar a las empresas hacia la madurez tecnológica y la transformación digital.
 
+### 🌎 Mi misión
+Quiero generar lo suficiente para lanzar **programas sociales que enseñen ciencia y tecnología** a comunidades marginadas de mi país.  
+Tu apoyo me ayuda a compartir conocimiento, crear herramientas y construir un mejor futuro a través de la educación y la innovación.
+
 ## ❤️ Apoya mi trabajo
 
 Si te gusta lo que hago y quieres ser parte de algo más grande, considera convertirte en patrocinador.
 
 [![Patrocíname](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/elingelegendario)
-
-### 🌎 Mi misión
-Quiero generar lo suficiente para lanzar **programas sociales que enseñen ciencia y tecnología** a comunidades marginadas de mi país.  
-Tu apoyo me ayuda a compartir conocimiento, crear herramientas y construir un mejor futuro a través de la educación y la innovación.
 
 ## Intereses
 
