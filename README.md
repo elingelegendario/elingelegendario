@@ -12,6 +12,17 @@ Especializado en escalar plataformas en la nube, desarrollar soluciones innovado
 
 > MI PROPÓSITO EN LA VIDA ES TRAER BALANCE AL MUNDO PONIENDO AL ALCANCE DE LAS PERSONAS SIN ALTERNATIVAS, LA INFORMACIÓN QUE NECESITAN PARA GENERAR SUS PROPIAS OPORTUNIDADES.
 
+## Compra un curso
+
+Entra a [redboyconsulting.com](https://www.redboyconsulting.com/cursos-online) en la sección de **Cursos Online**.
+
+<p align="center">
+  <a href="https://www.redboyconsulting.com/challenge-page/e5c60ab0-f619-4799-803f-59fd3817550e?programId=e5c60ab0-f619-4799-803f-59fd3817550e"><img src="https://static.wixstatic.com/media/07ff59_e9a18de9daaa4be8a795e7ab7bfc5bdb~mv2.png/v1/fit/w_800,h_450,al_c,q_90/07ff59_e9a18de9daaa4be8a795e7ab7bfc5bdb~mv2.png" alt="Hackeo de Redes Inalámbricas" width="49%"></a>
+  <a href="https://www.redboyconsulting.com/challenge-page/945b724c-8a93-48e5-a471-50fd93db1638?programId=945b724c-8a93-48e5-a471-50fd93db1638"><img src="https://static.wixstatic.com/media/07ff59_cb66342c5f6d429aba28aebc49938e55~mv2.png/v1/fit/w_800,h_450,al_c,q_90/07ff59_cb66342c5f6d429aba28aebc49938e55~mv2.png" alt="Laboratorio: MCP Servers + Copilot" width="49%"></a>
+  <a href="https://www.redboyconsulting.com/challenge-page/79c2cdce-4b09-43a9-b549-f18ca8ac15d6?programId=79c2cdce-4b09-43a9-b549-f18ca8ac15d6"><img src="https://static.wixstatic.com/media/07ff59_b7a2d0581e46421db6542a8bfcbc8151~mv2.png/v1/fit/w_800,h_450,al_c,q_90/07ff59_b7a2d0581e46421db6542a8bfcbc8151~mv2.png" alt="Programador experto de 0 a 100" width="49%"></a>
+  <a href="https://www.redboyconsulting.com/challenge-page/domina-aws?programId=880654ec-461d-3aea-9d89-4ba03bca103d"><img src="https://static.wixstatic.com/media/07ff59_6e98d2336a7b4c2e984f8b89581fcdf0~mv2.png/v1/fit/w_800,h_450,al_c,q_90/07ff59_6e98d2336a7b4c2e984f8b89581fcdf0~mv2.png" alt="Domina AWS y Vende Soluciones en la Nube" width="49%"></a>
+</p>
+
 ## ❤️ Apoya mi trabajo
 
 Si te gusta lo que hago y quieres ser parte de algo más grande, considera convertirte en patrocinador.
