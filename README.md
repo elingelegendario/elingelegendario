@@ -11,8 +11,9 @@
 🚀 Especializado en escalar plataformas en la nube, desarrollar soluciones innovadoras y guiar a las empresas hacia la madurez tecnológica y la transformación digital.
 
 ### 🌎 Mi misión
-Quiero generar lo suficiente para lanzar **programas sociales que enseñen ciencia y tecnología** a comunidades marginadas de mi país.  
-Tu apoyo me ayuda a compartir conocimiento, crear herramientas y construir un mejor futuro a través de la educación y la innovación.
+
+> [!NOTE]
+> Mi propósito en la vida es traer balance al mundo poniendo al alcance de las personas sin alternativas, la información que necesitan para generar sus propias oportunidades.
 
 ## ❤️ Apoya mi trabajo
 
